@@ -26,7 +26,7 @@ import (
 	"fmt"
 	"time"
 	
-	"github.com/jasonlvhit/gocron"
+	"github.com/lbryio/gocron"
 )
 
 func task() {
